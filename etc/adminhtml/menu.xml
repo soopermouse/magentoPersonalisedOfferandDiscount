@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
+    <menu>
+        <add id="MagentoServices_PersonalizedBundles::accessory" title="Manage Accessories" module="MagentoServices_PersonalizedBundles"
+             sortOrder="10" parent="Magento_Catalog::catalog" action="mycompany_personalizedbundles/accessory" resource="MagentoServices_PersonalizedBundles::accessory"/>
+    </menu>
+</config>

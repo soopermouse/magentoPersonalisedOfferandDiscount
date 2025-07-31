@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
+    <default>
+        <personalized_bundles>
+            <general>
+                <bundle_type_1_enabled>1</bundle_type_1_enabled>
+                <bundle_type_2_enabled>1</bundle_type_2_enabled>
+                <bundle_type_3_enabled>1</bundle_type_3_enabled>
+            </general>
+        </personalized_bundles>
+    </default>
+</config>
